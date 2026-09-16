@@ -6,7 +6,7 @@ Updated September 15, 2026
 
 QuotaGrain for Codex is an independent macOS utility by Sean Ye (@seanye73), not an OpenAI product. It requires macOS 13 or later on Apple Silicon. You may install and use the app to manage your own accounts. The software remains copyrighted; this licence does not transfer ownership or grant permission to redistribute or sell it.
 
-Free use supports two accounts without a trial deadline. Support unlocks unlimited accounts; each license key can be used on a cumulative total of two Macs. Deactivating a Mac does not reset this total, and device replacement support is not included. Automatic refresh, quota alerts and privacy protections are the same. Third-party services may require their own accounts or payments and can change compatibility.
+Free use supports two accounts without a trial deadline. Support unlocks unlimited accounts; each license key can be used on a cumulative total of two Macs. Device unbinding and transfers to replacement Macs are not offered. Automatic refresh, quota alerts and privacy protections are the same. Third-party services may require their own accounts or payments and can change compatibility.
 
 ## Payment and delivery
 
@@ -32,7 +32,7 @@ Refund decisions follow applicable consumer law, the terms shown at checkout and
 
 QuotaGrain for Codex 是 Sean Ye（@seanye73）开发的独立 macOS 工具，并非 OpenAI 官方产品。需要 macOS 13 或更高版本及 Apple Silicon。你可以安装软件并管理自己的账号；软件版权仍归作者所有，使用许可不转让所有权，也不授予重新分发或销售的许可。
 
-免费使用最多 2 个账号，不设试用期限。支持后解锁不限账号，一份激活码最多累计激活 2 台 Mac。取消激活不重置累计数量，购买不包含换机支持。自动刷新、额度提醒和隐私保护相同。第三方服务可能需要独立账号或付费，其变更也可能影响兼容性。
+免费使用最多 2 个账号，不设试用期限。支持后解锁不限账号，一份激活码最多累计激活 2 台 Mac。不提供设备解绑或换机服务。自动刷新、额度提醒和隐私保护相同。第三方服务可能需要独立账号或付费，其变更也可能影响兼容性。
 
 ## 付款与交付
 

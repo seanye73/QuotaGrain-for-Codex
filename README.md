@@ -81,7 +81,7 @@ Account credentials are not sent to the developer or written to usage logs.
 
 QuotaGrain for Codex is free for up to two accounts. If you need more, you can support its development to unlock unlimited accounts.
 
-Listed price: **US$9.99**, one-time purchase. Each key permits cumulative activation on up to two Macs; deactivation does not reset the total and device replacement support is not included. See the [usage and purchase terms](TERMS.md).
+Listed price: **US$9.99**, one-time purchase. Each key can activate a maximum of two Macs in total. Device unbinding and transfers to replacement Macs are not offered. See the [usage and purchase terms](TERMS.md).
 
 [Contact the developer](mailto:x73.sean.ye@outlook.com)
 
