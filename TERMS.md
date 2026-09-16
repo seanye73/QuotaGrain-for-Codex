@@ -53,3 +53,20 @@ QuotaGrain for Codex 是 Sean Ye（@seanye73）开发的独立 macOS 工具，�
 [x73.sean.ye@outlook.com](mailto:x73.sean.ye@outlook.com)
 
 [Privacy / 隐私](SECURITY.md) · [Waffo Buyer Terms](https://www.waffo.ai/en/buyer-terms) · [Waffo Privacy](https://www.waffo.ai/en/privacy)
+
+
+## Disclaimer and responsibility
+
+To the extent permitted by applicable law, the app is provided as available. We do not guarantee uninterrupted operation, error-free quota or usage data, or continued compatibility with macOS, Codex or third-party services. Quota and token figures may be delayed or incomplete; confirm important usage and billing information with the relevant provider. We are not responsible for third-party outages, changes or charges outside our control. These limitations do not exclude liability that cannot lawfully be excluded, or limit the refund policy above or mandatory consumer rights.
+
+## 免责声明与责任
+
+在适用法律允许的范围内，软件按实际可用状态提供。我们不保证软件持续不中断运行、额度与用量数据始终无误，或始终兼容 macOS、Codex 及第三方服务。额度与 Token 数据可能延迟或不完整，重要用量与账单信息请向对应服务商核实。对于超出我们控制范围的第三方服务中断、变更或费用，我们不承担责任。上述限制不排除依法不可免除的责任，不限制前述退款政策及消费者法定权利。
+
+## Licence violations and termination
+
+You must not redistribute, resell or sublicense the software without permission, share or resell activation codes, or bypass licence checks or device limits. If a material violation is confirmed, we may suspend or terminate the affected software licence, subject to applicable law. Where practicable, we will explain the reason and allow you to respond or correct the breach; urgent action may be taken to prevent fraud or harm. You remain responsible for losses caused by your violation to the extent required by applicable law. Contact us if you believe an action was taken in error. This does not permit us to delete your local account or session data, or remove mandatory consumer protections.
+
+## 违反授权限制与终止
+
+未经许可，不得重新分发、出售或转授权软件，不得共享或转售激活码，也不得绕过授权验证或设备限制。经核实存在重大违约时，我们可依法暂停或终止受影响的软件许可。在可行情况下，我们会说明原因，并给予回应或纠正的机会；为防止欺诈或损害，可采取必要的紧急措施。你应依法对自身违约造成的损失承担相应责任。如认为处理有误，请联系我们核查。这不授予我们删除你的本机账号或会话数据的权利，也不排除消费者法定保护。
