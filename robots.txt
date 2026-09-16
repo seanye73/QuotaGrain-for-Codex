@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seanye73.github.io/QuotaGrain-for-Codex/sitemap.xml
