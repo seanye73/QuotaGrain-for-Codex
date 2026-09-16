@@ -18,13 +18,9 @@
 
 ## See your accounts in one place
 
-<table>
-<tr><th>Single column · Quota and usage</th><th>Two columns · More accounts</th></tr>
-<tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/seanye73/QuotaGrain-for-Codex/main/assets/quotagrain-overview-light-en.png" alt="Single column · Quota and usage" width="300"></td>
-<td valign="top"><img src="https://raw.githubusercontent.com/seanye73/QuotaGrain-for-Codex/main/assets/quotagrain-grid-light-en.png" alt="Two columns · More accounts" width="300"></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seanye73/QuotaGrain-for-Codex/main/assets/quotagrain-overview-light-en.png" alt="Quota and usage in a single column" width="340">
+</p>
 
 For independent developers and studios working with multiple Codex accounts, QuotaGrain for Codex brings quota and reset times into one panel on your Mac. See which accounts have quota available and open the client you need, without checking each account separately.
 
@@ -35,6 +31,12 @@ For independent developers and studios working with multiple Codex accounts, Quo
 - **An appearance that fits.** Use a light or dark appearance, or follow your Mac’s system setting. The interface follows your system language by default, with English and Chinese options. Choose a single-column or two-column panel.
 
 External services must support **OpenAI Responses**. External API token totals come from local usage records and do not represent provider balances or remaining quota.
+
+## More accounts at a glance
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seanye73/QuotaGrain-for-Codex/main/assets/quotagrain-grid-light-en.png" alt="Two-column account layout" width="360">
+</p>
 
 ## Requirements and compatibility
 
