@@ -15,8 +15,10 @@ QuotaGrain for Codex is a macOS menu bar app for monitoring quota across multipl
 ## See your accounts in one place
 
 <p align="center">
-  <a href="assets/quotagrain-overview-light-en.png"><img src="assets/quotagrain-overview-light-en.png" alt="Light appearance with sample quota and API usage data" width="340"></a>
+  <a href="assets/quotagrain-overview-light-en.png"><img src="https://raw.githubusercontent.com/seanye73/QuotaGrain-for-Codex/main/assets/quotagrain-overview-light-en.png" alt="Light appearance with sample quota and API usage data" width="340"></a>
 </p>
+
+[View app screenshot](assets/quotagrain-overview-light-en.png)
 
 For independent developers and studios working with multiple Codex accounts, QuotaGrain for Codex brings quota and reset times into one panel on your Mac. See which accounts have quota available and open the client you need, without checking each account separately.
 
@@ -27,17 +29,6 @@ For independent developers and studios working with multiple Codex accounts, Quo
 - **An appearance that fits.** Use a light or dark appearance, or follow your Mac’s system setting. The interface follows your system language by default, with English and Chinese options. Choose a single-column or two-column panel.
 
 External services must support **OpenAI Responses**. External API token totals come from local usage records and do not represent provider balances or remaining quota.
-
-<details>
-<summary>More screenshots · 更多截图</summary>
-
-English interface with sample data. Click the image to view the original.
-
-<p align="center">
-  <a href="assets/quotagrain-grid-light-en.png"><img src="assets/quotagrain-grid-light-en.png" alt="Two-column grid with six sample accounts" width="360"></a>
-</p>
-
-</details>
 
 ## Requirements and compatibility
 
