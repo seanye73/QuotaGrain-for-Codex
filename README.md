@@ -77,7 +77,9 @@ Account credentials are not sent to the developer or written to usage logs.
 
 <a id="support"></a>
 
-[Learn more on the website](https://seanye73.github.io/QuotaGrain-for-Codex/#support)
+[Support & unlock — US$9.99, one-time purchase](https://pancake.waffo.ai/store/x73-sean-g4egu1yo/product/PROD_6GpPKyX4WD8sRXevvY38cz?type=onetime&currency=USD)
+
+[Benefits and purchase terms](https://seanye73.github.io/QuotaGrain-for-Codex/terms/)
 
 ## Frequently asked questions
 

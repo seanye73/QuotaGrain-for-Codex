@@ -62,7 +62,9 @@ QuotaGrain for Codex 使用独立的 App、进程与菜单栏图标。多个客�
 
 <a id="support"></a>
 
-[前往官网了解更多](https://seanye73.github.io/QuotaGrain-for-Codex/#support)
+[支持并解锁 — US$9.99，一次性购买](https://pancake.waffo.ai/store/x73-sean-g4egu1yo/product/PROD_6GpPKyX4WD8sRXevvY38cz?type=onetime&currency=USD)
+
+[权益与购买条款](https://seanye73.github.io/QuotaGrain-for-Codex/terms/)
 
 ## 反馈
 
