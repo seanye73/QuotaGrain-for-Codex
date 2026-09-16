@@ -8,11 +8,15 @@ QuotaGrain for Codex is a macOS menu bar app for monitoring quota across multipl
 
 [Privacy](SECURITY.md) · [Terms](TERMS.md) · [Download for Mac](https://github.com/seanye73/QuotaGrain-for-Codex/releases/latest) · [Support & unlock](#support) · [中文介绍](#chinese)
 
-![QuotaGrain for Codex product illustration](assets/quotagrain-cover-en.png)
+<p align="center">
+  <a href="assets/quotagrain-cover-en.png"><img src="assets/quotagrain-cover-en.png" alt="QuotaGrain for Codex product illustration" width="640"></a>
+</p>
 
 ## See your accounts in one place
 
-![Light appearance with sample quota and API usage data](assets/quotagrain-overview-light-en.png)
+<p align="center">
+  <a href="assets/quotagrain-overview-light-en.png"><img src="assets/quotagrain-overview-light-en.png" alt="Light appearance with sample quota and API usage data" width="340"></a>
+</p>
 
 For independent developers and studios working with multiple Codex accounts, QuotaGrain for Codex brings quota and reset times into one panel on your Mac. See which accounts have quota available and open the client you need, without checking each account separately.
 
@@ -24,19 +28,16 @@ For independent developers and studios working with multiple Codex accounts, Quo
 
 External services must support **OpenAI Responses**. External API token totals come from local usage records and do not represent provider balances or remaining quota.
 
-## Inside the app
+<details>
+<summary>More screenshots · 更多截图</summary>
 
-Actual app views, shown in English with sample data.
+English interface with sample data. Click the image to view the original.
 
-### More accounts in a grid
+<p align="center">
+  <a href="assets/quotagrain-grid-light-en.png"><img src="assets/quotagrain-grid-light-en.png" alt="Two-column grid with six sample accounts" width="360"></a>
+</p>
 
-![Light two-column grid with six sample accounts](assets/quotagrain-grid-light-en.png)
-
-An expanded grid view of six sample accounts: Pro 20×, Pro, two Plus accounts, a free account, and a local API.
-
-### Connect an external API
-
-Connect a Responses-compatible API or local model to its own Codex client.
+</details>
 
 ## Requirements and compatibility
 
