@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Multiple Codex accounts. Your quota at a glance.</strong></p>
 
-<p align="center"><a href="README.md">中文</a> · English</p>
+<p align="center">English · <a href="README.zh-CN.md">中文</a></p>
 
 <p align="center">
   <a href="https://github.com/seanye73/QuotaGrain-for-Codex/releases/latest"><img src="https://img.shields.io/github/v/release/seanye73/QuotaGrain-for-Codex?label=release" alt="Latest release"></a>
@@ -18,11 +18,13 @@
 
 ## See your accounts in one place
 
-<p align="center">
-  <a href="assets/quotagrain-overview-light-en.png"><img src="https://raw.githubusercontent.com/seanye73/QuotaGrain-for-Codex/main/assets/quotagrain-overview-light-en.png" alt="Light appearance with sample quota and API usage data" width="340"></a>
-</p>
-
-[View app screenshot](assets/quotagrain-overview-light-en.png)
+<table>
+<tr><th>Single column · Quota and usage</th><th>Two columns · More accounts</th></tr>
+<tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/seanye73/QuotaGrain-for-Codex/main/assets/quotagrain-overview-light-en.png" alt="Single column · Quota and usage" width="300"></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/seanye73/QuotaGrain-for-Codex/main/assets/quotagrain-grid-light-en.png" alt="Two columns · More accounts" width="300"></td>
+</tr>
+</table>
 
 For independent developers and studios working with multiple Codex accounts, QuotaGrain for Codex brings quota and reset times into one panel on your Mac. See which accounts have quota available and open the client you need, without checking each account separately.
 
