@@ -77,13 +77,7 @@ Account credentials are not sent to the developer or written to usage logs.
 
 <a id="support"></a>
 
-## Support the project
-
-QuotaGrain for Codex is free for up to two accounts. If you need more, you can support its development to unlock unlimited accounts.
-
-Listed price: **US$9.99**, one-time purchase. Each key can activate a maximum of two Macs in total. Device unbinding and transfers to replacement Macs are not offered. See the [usage and purchase terms](TERMS.md).
-
-[Contact the developer](mailto:x73.sean.ye@outlook.com)
+[Learn more on the website](https://seanye73.github.io/QuotaGrain-for-Codex/#support)
 
 ## Frequently asked questions
 
@@ -95,12 +89,8 @@ Yes. Open a separate Codex desktop client from each account card and use them si
 
 Yes. Configure a service endpoint and model for an external API account, then open its Codex client. The service must support OpenAI Responses. Local token totals show recorded usage, not provider balances, remaining quota, or billed amounts.
 
-### What does supporting the developer unlock?
-
-Support unlocks the number of accounts you can manage in QuotaGrain for Codex. Both Codex and external API accounts count toward the free limit of two. Automatic refresh, quota alerts, and privacy protections are the same. Unlocking does not increase quota from OpenAI or your API provider.
-
 ## Feedback
 
 For help or feedback, [email x73.sean.ye@outlook.com](mailto:x73.sean.ye@outlook.com) with a brief description of what happened, your current app version (including the build number shown in About), and any relevant screenshots or supporting documents.
 
-QuotaGrain for Codex is an independently developed third-party tool. It is not affiliated with, partnered with, or endorsed by OpenAI. Codex, ChatGPT, and other product names are trademarks of their respective owners.
+QuotaGrain for Codex is an independently developed third-party tool. Codex, ChatGPT, and other product names are trademarks of their respective owners.

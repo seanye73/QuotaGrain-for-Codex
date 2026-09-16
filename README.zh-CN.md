@@ -62,16 +62,10 @@ QuotaGrain for Codex 使用独立的 App、进程与菜单栏图标。多个客�
 
 <a id="support"></a>
 
-## 支持并解锁
-
-免费管理 **2 个账号**，支持项目开发可解锁不限账号。Codex 账号和外部 API 账号均计入数量；自动刷新、额度提醒与隐私保护不分版本。解锁不会增加 OpenAI 或 API 服务商的额度。
-
-标价 **US$9.99，一次性购买**。每码最多累计激活两台 Mac；不提供设备解绑或换机服务。详见[使用与购买条款](TERMS.md)。
-
-[联系作者](mailto:x73.sean.ye@outlook.com)
+[前往官网了解更多](https://seanye73.github.io/QuotaGrain-for-Codex/#support)
 
 ## 反馈
 
 欢迎[通过邮箱联系 Sean Ye（@seanye73）](mailto:x73.sean.ye@outlook.com)。请简要说明问题、当前 App 版本及“关于”中的构建号，并附上相关截图或凭证。
 
-QuotaGrain for Codex 是独立开发的第三方工具，与 OpenAI 无隶属或合作关系，也未获得其认可或背书。相关产品名称的商标归各自权利人所有。
+QuotaGrain for Codex 是独立开发的第三方工具。相关产品名称的商标归各自权利人所有。
