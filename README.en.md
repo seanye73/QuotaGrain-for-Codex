@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/chip-Apple%20Silicon-7250B5" alt="Apple Silicon">
 </p>
 
-<p align="center"><a href="#see-your-accounts-in-one-place">Features</a> · <a href="#install">Install</a> · <a href="#your-data">Privacy</a> · <a href="#support">Support &amp; unlock</a> · <a href="#feedback">Feedback</a></p>
+<p align="center"><a href="https://seanye73.github.io/QuotaGrain-for-Codex/">Website</a> · <a href="#see-your-accounts-in-one-place">Features</a> · <a href="#install">Install</a> · <a href="#your-data">Privacy</a> · <a href="#support">Support &amp; unlock</a> · <a href="#feedback">Feedback</a></p>
 
 ---
 

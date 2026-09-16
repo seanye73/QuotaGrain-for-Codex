@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/chip-Apple%20Silicon-7250B5" alt="Apple Silicon">
 </p>
 
-<p align="center"><a href="#功能">功能</a> · <a href="#安装">安装</a> · <a href="#使用">使用</a> · <a href="#隐私">隐私</a> · <a href="#support">支持并解锁</a> · <a href="#反馈">反馈</a></p>
+<p align="center"><a href="https://seanye73.github.io/QuotaGrain-for-Codex/">官网</a> · <a href="#功能">功能</a> · <a href="#安装">安装</a> · <a href="#使用">使用</a> · <a href="#隐私">隐私</a> · <a href="#support">支持并解锁</a> · <a href="#反馈">反馈</a></p>
 
 ---
 
