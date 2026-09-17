@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/chip-Apple%20Silicon-7250B5" alt="Apple Silicon">
 </p>
 
-<p align="center"><a href="https://seanye73.github.io/QuotaGrain-for-Codex/">Website</a> · <a href="#see-your-accounts-in-one-place">Features</a> · <a href="#install">Install</a> · <a href="#your-data">Privacy</a> · <a href="#support">Support &amp; unlock</a> · <a href="#feedback">Feedback</a></p>
+<p align="center"><a href="https://seanye73.github.io/QuotaGrain-for-Codex/">Website</a> · <a href="#see-your-accounts-in-one-place">Features</a> · <a href="#install">Install</a> · <a href="#your-data">Privacy</a> · <a href="#support">Support</a> · <a href="#feedback">Feedback</a></p>
 
 ---
 
@@ -77,7 +77,7 @@ Account credentials are not sent to the developer or written to usage logs.
 
 <a id="support"></a>
 
-[Support & unlock — US$9.99, one-time purchase](https://pancake.waffo.ai/store/x73-sean-g4egu1yo/product/PROD_6GpPKyX4WD8sRXevvY38cz?type=onetime&currency=USD)
+[Support & unlock more accounts](https://pancake.waffo.ai/store/x73-sean-g4egu1yo/product/PROD_6GpPKyX4WD8sRXevvY38cz?type=onetime&currency=USD)
 
 [Benefits and purchase terms](https://seanye73.github.io/QuotaGrain-for-Codex/terms/)
 

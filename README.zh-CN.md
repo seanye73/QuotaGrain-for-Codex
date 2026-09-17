@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/chip-Apple%20Silicon-7250B5" alt="Apple Silicon">
 </p>
 
-<p align="center"><a href="https://seanye73.github.io/QuotaGrain-for-Codex/">官网</a> · <a href="#功能">功能</a> · <a href="#安装">安装</a> · <a href="#使用">使用</a> · <a href="#隐私">隐私</a> · <a href="#support">支持并解锁</a> · <a href="#反馈">反馈</a></p>
+<p align="center"><a href="https://seanye73.github.io/QuotaGrain-for-Codex/">官网</a> · <a href="#功能">功能</a> · <a href="#安装">安装</a> · <a href="#使用">使用</a> · <a href="#隐私">隐私</a> · <a href="#support">支持入口</a> · <a href="#反馈">反馈</a></p>
 
 ---
 
@@ -62,7 +62,7 @@ QuotaGrain for Codex 使用独立的 App、进程与菜单栏图标。多个客�
 
 <a id="support"></a>
 
-[支持并解锁 — US$9.99，一次性购买](https://pancake.waffo.ai/store/x73-sean-g4egu1yo/product/PROD_6GpPKyX4WD8sRXevvY38cz?type=onetime&currency=USD)
+[支持并解锁更多账号](https://pancake.waffo.ai/store/x73-sean-g4egu1yo/product/PROD_6GpPKyX4WD8sRXevvY38cz?type=onetime&currency=USD)
 
 [权益与购买条款](https://seanye73.github.io/QuotaGrain-for-Codex/terms/)
 
