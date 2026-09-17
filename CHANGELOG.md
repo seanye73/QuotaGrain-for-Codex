@@ -2,6 +2,11 @@
 
 User-facing version notes for QuotaGrain for Codex.
 
+## 1.0.0 (build 40)
+
+- The in-app Support & unlock action opens the verified Waffo Live checkout directly.
+- Merchant credentials remain outside the signed app.
+
 ## 1.0.0
 
 - Native macOS quota monitoring without a bundled Python runtime or developer-tool installation.
