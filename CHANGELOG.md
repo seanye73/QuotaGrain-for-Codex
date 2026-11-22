@@ -2,6 +2,11 @@
 
 User-facing version notes for QuotaGrain for Codex.
 
+## 1.0.4 (build 52) — 2026-11-23
+
+- The activation screen includes a general contact link for questions.
+- Free use includes up to two accounts with no time limit.
+
 ## 1.0.3 (build 50) — 2026-09-17
 
 - Improved interface feedback and stability.
