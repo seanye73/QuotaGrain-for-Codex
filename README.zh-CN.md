@@ -6,7 +6,7 @@
 
 QuotaGrain for Codex 是一款 Mac 菜单栏工具。它把多个 Codex 账号的剩余额度和重置时间放在同一个面板里，也可以从账号卡片打开各自独立的桌面客户端。
 
-**1.0.3 版继续提供免费下载，最多可管理 2 个账号，不限时。**
+**1.0.4 版继续提供免费下载，最多可管理 2 个账号，不限时。**
 
 <p><strong><a href="https://github.com/seanye73/QuotaGrain-for-Codex/releases/latest/download/QuotaGrain-for-Codex-arm64.dmg">免费下载 Mac 版（DMG）</a></strong> · Apple Silicon · macOS 13 或更高版本<br><a href="https://seanye73.github.io/QuotaGrain-for-Codex/zh/">官网</a> · <a href="CHANGELOG.md">版本记录</a></p>
 
