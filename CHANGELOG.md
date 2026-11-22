@@ -2,6 +2,20 @@
 
 User-facing version notes for QuotaGrain for Codex.
 
+## 1.0.3 (build 50) — 2026-09-17
+
+- Improved interface feedback and stability.
+
+## 1.0.2 (build 49)
+
+- Improved the update experience.
+
+## 1.0.1 (build 48)
+
+- Added quiet background update checks and subtle update dots through Settings and About.
+- Improved onboarding, support-page guidance, and hover feedback.
+- Clarified estimated license delivery time and email support for delayed delivery.
+
 ## 1.0.0 (build 40)
 
 - The in-app Support & unlock action opens the verified Waffo Live checkout directly.

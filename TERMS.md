@@ -1,16 +1,16 @@
-# Usage & purchase terms
+# Terms of use
 
-Updated September 15, 2026
+Updated November 22, 2026
 
 ## The app and your licence
 
 QuotaGrain for Codex is an independent macOS utility by Sean Ye (@seanye73), not an OpenAI product. It requires macOS 13 or later on Apple Silicon. You may install and use the app to manage your own accounts. The software remains copyrighted; this licence does not transfer ownership or grant permission to redistribute or sell it.
 
-Free use supports two accounts without a trial deadline. Support unlocks unlimited accounts; each license key can be used on a cumulative total of two Macs. Device unbinding and transfers to replacement Macs are not offered. Automatic refresh, quota alerts and privacy protections are the same. Third-party services may require their own accounts or payments and can change compatibility.
+Free use supports two accounts without a trial deadline. Existing licenses unlock unlimited accounts and each key can activate a cumulative total of two Macs. Device unbinding and transfers to replacement Macs are not offered. Automatic refresh, quota alerts and privacy protections are the same. Third-party services may require their own accounts or payments and can change compatibility.
 
-## Payment and delivery
+## Existing orders and delivery
 
-The listed price is US$9.99; the checkout shows the final total and applicable taxes. Waffo.com Limited acts as the online reseller and Merchant of Record. QuotaGrain for Codex provides the software, activation code and product support.
+For an existing order, your receipt shows the amount paid and any applicable taxes. Waffo.com Limited acts as the online reseller and Merchant of Record. QuotaGrain for Codex provides the software, activation code and product support.
 
 Activation codes are usually emailed to the purchase address within minutes of successful payment, and no later than 24 hours. You can activate the code in the app. If it has not arrived, please check your spam folder and contact us with your order reference.
 
@@ -24,19 +24,19 @@ Refund decisions follow applicable consumer law, the terms shown at checkout and
 
 ---
 
-# 使用与购买条款
+# 使用条款
 
-更新于 2026 年 9 月 15 日
+更新于 2026 年 11 月 22 日
 
 ## 软件与使用许可
 
 QuotaGrain for Codex 是 Sean Ye（@seanye73）开发的独立 macOS 工具，并非 OpenAI 官方产品。需要 macOS 13 或更高版本及 Apple Silicon。你可以安装软件并管理自己的账号；软件版权仍归作者所有，使用许可不转让所有权，也不授予重新分发或销售的许可。
 
-免费使用最多 2 个账号，不设试用期限。支持后解锁不限账号，一份激活码最多累计激活 2 台 Mac。不提供设备解绑或换机服务。自动刷新、额度提醒和隐私保护相同。第三方服务可能需要独立账号或付费，其变更也可能影响兼容性。
+免费使用最多 2 个账号，不设试用期限。已有激活码可解锁不限账号，每码最多累计激活 2 台 Mac。不提供设备解绑或换机服务。自动刷新、额度提醒和隐私保护相同。第三方服务可能需要独立账号或付费，其变更也可能影响兼容性。
 
-## 付款与交付
+## 既有订单与交付
 
-标价为 US$9.99，最终金额与适用税费以结账页为准。Waffo.com Limited 作为线上经销商和交易商户（Merchant of Record）；QuotaGrain for Codex 提供软件、激活码和产品支持。
+既有订单的实付金额和适用税费请查阅购买收据。Waffo.com Limited 作为线上经销商和交易商户（Merchant of Record）；QuotaGrain for Codex 提供软件、激活码和产品支持。
 
 激活码通常在付款成功后几分钟内发送至购买邮箱，最迟不超过 24 小时。收到后可在 App 中激活。如未收到，欢迎先查看垃圾邮件，再提供订单编号联系我们协助处理。
 
