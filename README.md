@@ -6,7 +6,7 @@
 
 QuotaGrain for Codex is a Mac menu bar app. See remaining quota and reset times for multiple Codex accounts in one panel, and open a separate desktop client from each account card.
 
-**Version 1.0.3 is free to download. You can manage up to two accounts with no time limit.**
+**Version 1.0.4 is free to download. You can manage up to two accounts with no time limit.**
 
 <p><strong><a href="https://github.com/seanye73/QuotaGrain-for-Codex/releases/latest/download/QuotaGrain-for-Codex-arm64.dmg">Free Mac download (DMG)</a></strong> · Apple Silicon · macOS 13 or later<br><a href="https://seanye73.github.io/QuotaGrain-for-Codex/">Website</a> · <a href="CHANGELOG.md">Release notes</a></p>
 
